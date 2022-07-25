@@ -54,6 +54,6 @@ This repository contains PyTorch implementations of deep reinforcement learning 
 - [TensorBoard](https://pytorch.org/docs/stable/tensorboard.html)
 - [gym](https://github.com/openai/gym)
 - [mujoco-py](https://github.com/openai/mujoco-py)
-- [PyBullet](https://pybullet.org/wordpress/)
+
 
 
